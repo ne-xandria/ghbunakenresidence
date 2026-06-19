@@ -16,7 +16,7 @@ export const dummyRooms = [
     daily_rate: 350000,
     weekly_rate: 2200000,
     description: 'Pilihan eksklusif untuk Anda yang mengutamakan privasi dan kenyamanan. Dilengkapi dengan kasur Queen Size, balkon pribadi, Smart TV, akses Wi-Fi khusus, area bersantai yang nyaman, dan layanan kebersihan harian.',
-    image_url: 'https://images.unsplash.com/photo-1590490359683-658d34c8f12f?auto=format&fit=crop&w=800&q=80',
+    image_url: '/premium-room.png',
     status: 'available'
   }
 ];
