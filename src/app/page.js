@@ -9,7 +9,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className="container">
           <header className={styles.hero}>
-            <div className="glass-panel" style={{ padding: '3rem', textAlign: 'center', maxWidth: '800px', margin: '0 auto', marginTop: '10vh' }}>
+            <div className={`glass-panel ${styles.heroPanel}`}>
               <h1 className="heading-1" style={{ color: 'var(--color-primary)', marginBottom: '1rem' }}>
                 Bunaken Residence
               </h1>
